@@ -71,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a member of the <link rel="WHO Digital Health Technical Advisory Group" href="{https://www.who.int/health-topics/digital-health/dh-tag-membership}">
-
+Dr Dari Alhuwail is a member of the {{ "http://gohugo.io/" | relURL }} →  "http://gohugo.io/"
 
