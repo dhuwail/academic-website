@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a member of the [WHO Digital Health Technical Advisory Group](https://www.who.int/health-topics/digital-health/dh-tag-membership) and an Assistant Professor at the [Department of Information Science](http://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). He also is the co-founder of the Kuwait Health Informatics Network, a Fellow of the American Medical Informatics Association, and a member of the [Kuwait Health Informatics Association](http://khinformatics.org). He also serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit and is an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in health informatics. Dr. Alhuwail obtained his Ph.D. in Information Systems with a specializing in Health Informatics from the [University of Maryland, Baltimore County](http://is.umbc.edu/) and his Master’s and Bachelor’s from the [University of Arizona](https://eller.arizona.edu/departments-research/schools-departments/mis). He has over 12 years working in industry and in various research labs around the world.
+Dr Dari Alhuwail is a member of the <link rel="WHO Digital Health Technical Advisory Group" href="{https://www.who.int/health-topics/digital-health/dh-tag-membership}">
+
+
