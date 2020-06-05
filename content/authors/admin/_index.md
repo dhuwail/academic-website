@@ -71,5 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a member of the {{ "http://gohugo.io/" | relURL }} →  "http://gohugo.io/"
-
+Dr Dari Alhuwail is a member of the {{ "http://gohugo.io/" | relURL }} →  "http://gohugo.io/" xyz
