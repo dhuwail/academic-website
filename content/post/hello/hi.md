@@ -7,4 +7,4 @@ share: true  # Show social sharing links?
 disable_comments: true
 ---
 Hello World
-disable_comments: true
+السلام على من اتبع الهدى
