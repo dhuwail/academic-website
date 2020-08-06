@@ -21,24 +21,24 @@ date_format = "Jan 2006"
   title = "Assistant Professor"
   company = "Information Science Department, Kuwait University"
   company_url = ""
-  location = "California"
+  location = "Kuwait"
   date_start = "2016-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching Graduate and Undergraduate courses
+  * Supervising Graduate thesis and projects
+  * Membership in Departmental, College, and University committees
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Member"
+  company = "Digital Health Technical Advisory Group, World Health Organization"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Geneva, Switzerland"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """ """
 
 +++
