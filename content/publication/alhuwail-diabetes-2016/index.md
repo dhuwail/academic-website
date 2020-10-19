@@ -40,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T11:50:19.890048Z'
+publishDate: '2020-10-19T11:54:04.330839Z'
 publication_types:
-- '0'
+- '2'
 abstract: Today, 415 million adults have diabetes; more than 35 million of diabetic
   adults live in the Middle East and North Africa region. Smartphone penetration in
   the region is high and applications, or apps, for diabetics have shown promising
