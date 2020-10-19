@@ -11,9 +11,9 @@
 #[ar]
 #  languageCode = "ar"
 #  contentDir = "content/ar"
-#  title = "Chinese website title..."
+#  title = "Arabic website title..."
 #  [zh.params]
-#    description = "Site description in Chinese..."
+#    description = "Site description in Arabic..."
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
