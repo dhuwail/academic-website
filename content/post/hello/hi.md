@@ -12,10 +12,9 @@ categories: []
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
 image:
+  placement: 1
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 ---
-Hello World
-
-السلام على من اتبع الهدى
+Hello World!

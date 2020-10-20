@@ -8,17 +8,17 @@ summary: ''
 authors:
 - Dari Alhuwail
 tags:
-- '"Humans"'
-- '"Surveys and Questionnaires"'
-- '"Self Care"'
+- '"Consumer Health Information"'
 - '"Diabetes Mellitus"'
+- '"Humans"'
 - '"Kuwait"'
+- '"Mobile Applications"'
+- '"Self Care"'
+- '"Smartphone"'
+- '"Social Media"'
+- '"Surveys and Questionnaires"'
 - '"Technology Assessment"'
 - '"Biomedical"'
-- '"Smartphone"'
-- '"Mobile Applications"'
-- '"Consumer Health Information"'
-- '"Social Media"'
 - '"Telemedicine"'
 categories: []
 date: '2016-01-01'
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T11:54:04.330839Z'
+publishDate: '2020-10-20T10:59:09.026197Z'
 publication_types:
 - '2'
 abstract: Today, 415 million adults have diabetes; more than 35 million of diabetic

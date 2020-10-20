@@ -14,11 +14,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Information Science Department, Kuwait University
-  url: ""
+- name: Information Sciences Department, Kuwait University
+  url: "http://www.isc.ku.edu.kw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A pasitionate researcher in the Digital Health World.
 
 interests:
 - Health Informatics

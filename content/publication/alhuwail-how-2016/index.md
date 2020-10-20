@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T11:54:04.530960Z'
+publishDate: '2020-10-20T10:59:09.409242Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVES: From the perspectives of home care patients and caregivers,
