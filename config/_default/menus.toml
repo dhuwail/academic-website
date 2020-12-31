@@ -7,7 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
   [[main]]
   name = "Experience"
   url = "#experience"
@@ -18,11 +18,7 @@
   url = "#publications"
   weight = 30
 
-  [[main]]
-  name = "Research"
-  url = "research/"
-  weight = 35
-  
+
   [[main]]
   name = "Talks"
   url = "#talks"
