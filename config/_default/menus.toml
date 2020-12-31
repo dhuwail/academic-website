@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-  [[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 20
+#  [[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 20
 
   [[main]]
   name = "Publications"
@@ -24,15 +24,15 @@
   url = "#talks"
   weight = 40
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 50
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 60
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
