@@ -23,10 +23,11 @@ bio: A pasitionate researcher in the Digital Health World.
 interests:
 - Health Informatics and Digital Health
 - Participatory Medicine
+- Cybersecurity
+- Quality and Performance Improvement
 - GeoHealth and Geographical Information Systems
 - Information Systems Development, Adoption, and Evaluation
-- Quality and Performance Improvement
-- Cybersecurity
+
 
 education:
   courses:
