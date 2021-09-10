@@ -21,10 +21,11 @@ organizations:
 bio: A pasitionate researcher in the Digital Health World.
 
 interests:
-- Health Informatics
+- Health Informatics and Digital Health
 - GeoHealth and Geographical Information Systems
 - Information Systems Development, Adoption, and Evaluation.
 - Quality and Performance Improvement
+- Cybersecurity
 
 education:
   courses:
