@@ -18,7 +18,7 @@ organizations:
   url: "http://www.isc.ku.edu.kw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A pasitionate researcher in the Digital Health World.
+bio: A pasitionate researcher in the all things digital.
 
 interests:
 - Health Informatics
