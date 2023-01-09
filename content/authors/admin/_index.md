@@ -21,12 +21,11 @@ organizations:
 bio: A pasitionate researcher in the Digital Health World.
 
 interests:
-- Health Informatics and Digital Health
-- Participatory Medicine
+- Health Informatics
+- Digital Health
+- Information Systems
 - Cybersecurity
-- Quality and Performance Improvement
-- GeoHealth and Geographical Information Systems
-- Information Systems Development, Adoption, and Evaluation
+- Software Engineering
 
 
 education:
@@ -74,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), a Fellow of the [American Medical Informatics Association](https://www.amia.org/), a member of the [WHO Digital Health Technical Advisory Group](https://www.who.int/health-topics/digital-health/dh-tag-membership), and an Associate Professor at the [Department of Information Science](http://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). Currently, he serves as the Acting Assistant Vice President for Institutional Development at [Kuwait University](http://ku.edu.kw/). 
+Dr Dari Alhuwail is a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), a Fellow of the [American Medical Informatics Association](https://www.amia.org/), and an Associate Professor at the [Information Science Department](http://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). Currently, he serves as the [Middle East and North Africa Regional Vice President](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) to [International Medical Informatics Association (IMIA)](https://imia-medinfo.org/), the Vice-President of the [Middle East and North Africa Health Informatics Association (MENAHIA)](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) as well as the Co-Chair of the [Student and Emerging Professionals Special Interest Group (SEP SIG)](https://imia-medinfo.org/wp/student-and-emerging-professionals-special-interest-group-sep-sig/) at IMIA.  
 
-Dr Alhuwail also serves as the [Middle East and North Africa Regional Vice President](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) to [International Medical Informatics Association (IMIA)](https://imia-medinfo.org/), the Vice-President of the [Middle East and North Africa Health Informatics Association (MENAHIA)](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) as well as the Vice-Chair of the [Student and Emerging Professionals Special Interest Group (SEP SIG)](https://imia-medinfo.org/wp/student-and-emerging-professionals-special-interest-group-sep-sig/) at IMIA. He also is the co-founder of the Kuwait Health Informatics Network and a member of the Kuwait Health Informatics Association. He also serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit and is an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in health informatics. 
+Dr Alhuwail served as the Acting Assistant Vice President for Institutional Development at [Kuwait University](http://ku.edu.kw/), the Acting Department Chair of the [Information Science Department](http://www.isc.ku.edu.kw/) at the [College of Life Sciences](http://www.ku.edu.kw/COLS/), and was a member of the [World Health Organization (WHO) Digital Health Technical Advisory Group](https://www.who.int/groups/dh-tag-membership). He also is the co-founder of the Kuwait Health Informatics Network and a member of the Kuwait Health Informatics Association. He also serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit and is an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in Health Informatics. 
 
-Dr. Alhuwail obtained his Ph.D. in Information Systems with a specializing in Health Informatics from the [University of Maryland, Baltimore County](http://is.umbc.edu/) and his Master’s and Bachelor’s from the [University of Arizona](https://eller.arizona.edu/departments-research/schools-departments/mis). He has over 12 years working in industry and in various research labs around the world. Dr Alhuwail continues to be an avid health informatics leader inspiring others and contributing to health informatics science.
+Dr. Alhuwail obtained his Ph.D. in Information Systems with a specializing in Health Informatics from the [University of Maryland, Baltimore County](http://is.umbc.edu/) and his Master’s and Bachelor’s from the [University of Arizona](https://eller.arizona.edu/departments-research/schools-departments/mis). He has over 15 years working in industry and in various research labs around the world. Dr Alhuwail continues to be an avid health informatics leader inspiring others and contributing to health informatics science.
