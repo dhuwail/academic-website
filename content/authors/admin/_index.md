@@ -51,7 +51,7 @@ social:
   link: mailto:dari.alhuwail@ku.edu.kw  # For a direct email link, use "mailto:dari.alhuwail@ku.edu.kw".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dhuwail
+  link: https://x.com/dhuwail
   - icon: github
   icon_pack: fab
   link: https://github.com/dhuwail
