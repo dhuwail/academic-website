@@ -15,10 +15,10 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Information Science Department, Kuwait University
-  url: "http://www.isc.ku.edu.kw/"
+  url: https://www.isc.ku.edu.kw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A pasitionate researcher in the Digital World. 
+bio: A Passionate Researcher in the Digital World. 
 
 interests:
 - Cybersecurity 
@@ -52,7 +52,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/dhuwail
-  - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/dhuwail
 - icon: google-scholar
@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), a Fellow of the [American Medical Informatics Association](https://www.amia.org/), and an Associate Professor at the [Information Science Department](http://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). Currently, he serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit and is an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in Health Informatics. 
+Dr Dari Alhuwail is a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), a Fellow of the [American Medical Informatics Association](https://www.amia.org/), and an Associate Professor at the [Information Science Department](https://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). Currently, he serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit and is an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in Health Informatics. 
 
 Dr. Alhuwail is the winner of [Jaber Al-Ahmad Prize for Young Researchers](https://www.kfas.org/Offerings/Scientist-or-Researcher/Prizes/Jaber-Al-Ahmad-Prize-for-Young-Researchers) in the field of Natural Sciences and Mathematics. He also serves as the [Middle East and North Africa Regional Vice President](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) to [International Medical Informatics Association (IMIA)](https://imia-medinfo.org/), the Vice-President of the [Middle East and North Africa Health Informatics Association (MENAHIA)](https://imia-medinfo.org/wp/menahia-middle-east-and-north-african-health-informatics-association/) as well as the Co-Chair of the [Student and Emerging Professionals Special Interest Group (SEP SIG)](https://imia-medinfo.org/wp/student-and-emerging-professionals-special-interest-group-sep-sig/) at IMIA. He also is the co-founder of the Kuwait Health Informatics Network and a member of the Kuwait Health Informatics Association.  
 
