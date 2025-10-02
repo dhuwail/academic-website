@@ -17,9 +17,11 @@ organizations:
 - name: Communication and Information Technology Regulatory Authority
   url: https://www.citra.gov.kw/
 
+role: Associate Professor 
+
 organizations:
 - name: Information Science Department, Kuwait University
-  url: 
+  url: https://isc.ku.edu.kw/
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -83,7 +85,7 @@ user_groups:
 - Visitors
 ---
 
-Dr Dari Alhuwail is a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), a Fellow of the [American Medical Informatics Association](https://www.amia.org/), and an executive board member at the [Communication and Information Technology Regulatory Authority](https://www.citra.gov.kw/). He is also an Associate Professor at the [Information Science Department](https://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). He is also an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in Health Informatics. 
+Dr Dari Alhuwail is an executive board member at the [Communication and Information Technology Regulatory Authority](https://www.citra.gov.kw/), a Fellow of the [International Academy of Health Sciences Informatics](https://imia-medinfo.org/wp/iahsi/), and a Fellow of the [American Medical Informatics Association](https://www.amia.org/). He is also an Associate Professor at the [Information Science Department](https://www.isc.ku.edu.kw/) in the [College of Life Sciences](http://www.ku.edu.kw/COLS/), [Kuwait University](http://ku.edu.kw/). He is also an Adjunct Faculty member at the [School of Medicine at the University of Dundee](https://www.dundee.ac.uk/medicine/), supervising graduate students in Health Informatics. 
 
 Currently, he serves as board member at the [Sabah AlAhmad Center for Giftedness and Creativity](https://sacgc.org/), a [Kuwait Foundation for the Advancement of Sciences](https://www.kfas.org/) Center. He also serves as a Health Informatics Consultant at [Dasman Diabetes Institute](https://www.dasmaninstitute.org/) where he co-founded the Health Informatics Unit. 
 
