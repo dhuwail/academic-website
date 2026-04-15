@@ -21,7 +21,7 @@ organizations:
 
 #organizations:
 #- name: Information Science Department, Kuwait University
-  url: https://isc.ku.edu.kw/
+#  url: https://isc.ku.edu.kw/
 
 
 # Short bio (displayed in user profile at end of posts)
