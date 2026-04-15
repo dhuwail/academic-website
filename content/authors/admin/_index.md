@@ -10,16 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Executive Board Member
+role: Executive Board Member & Associate Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Communication and Information Technology Regulatory Authority
   url: https://www.citra.gov.kw/
-
-role: Associate Professor 
-
-organizations:
 - name: Information Science Department, Kuwait University
   url: https://isc.ku.edu.kw/
 
